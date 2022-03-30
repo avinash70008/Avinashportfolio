@@ -42,7 +42,7 @@
 
 # Demo :movie_camera:
 ![]()
-## View live demo [here](avinashkumarportfolio.netlify.app/).
+## View live demo [here](https://avinashkumarportfolio.netlify.app/).
 
 <br />
 
